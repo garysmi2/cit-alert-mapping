@@ -1,7 +1,7 @@
 {
-  "name": "clock-panel",
+  "name": "cit-alert-mapping-panel",
   "version": "1.0.0",
-  "description": "Clock Panel Plugin for Grafana",
+  "description": "Alert Mapping Plugin for Grafana",
   "main": "src/module.js",
   "scripts": {
     "lint": "eslint --color .",
@@ -13,7 +13,7 @@
     "plugin",
     "panel"
   ],
-  "author": "Raintank",
+  "author": "Gary Smith",
   "license": "MIT",
   "devDependencies": {
     "babel": "~6.5.1",
