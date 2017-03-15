@@ -1,5 +1,5 @@
-import {AlertMapCtrl} from './alert_map_ctrl';
+import {DeviceMapCtrl} from './device_map_ctrl';
 
 export {
-  AlertMapCtrl as PanelCtrl
+  DeviceMapCtrl as PanelCtrl
 };
